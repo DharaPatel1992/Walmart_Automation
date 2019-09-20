@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Walmart Automation with Selenium">
+	<test name="TestN" allow-return-values="true">
+		<classes>
+			<class name="com.selenium.TestN" />
+		</classes>
+	</test>
+	<test name="Walmart automation testNG" allow-return-values="true">
+		<classes>
+			<class name="com.walmart.qa.testcases.SignUpPageTest" />
+			<class name="com.walmart.qa.testcases.LoginPageTest" />
+			<class name="com.walmart.qa.testcases.HomePageTest" />
+		</classes>
+	</test>
+</suite>

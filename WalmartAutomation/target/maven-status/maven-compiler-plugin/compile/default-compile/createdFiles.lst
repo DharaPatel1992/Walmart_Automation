@@ -1,0 +1,12 @@
+com\walmart\qa\pages\MyListPage.class
+com\walmart\qa\util\TestUtil.class
+com\walmart\qa\pages\SignOutPage.class
+com\walmart\qa\pages\PersonalSettingPage.class
+com\walmart\qa\pages\SignUpPage.class
+com\walmart\qa\pages\LoginPage.class
+com\walmart\qa\pages\MyAutoSavePage.class
+com\walmart\qa\pages\MyRecommendationPage.class
+com\walmart\qa\pages\HomePage.class
+com\walmart\qa\base\TestBase.class
+com\walmart\qa\pages\OrderHistoryPage.class
+com\walmart\qa\pages\MyAccountPage.class
